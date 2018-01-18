@@ -1,0 +1,55 @@
+.sidenav-second-level li a {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+@media (max-width: 991px) {
+    #mainNav.navbar-dark .navbar-collapse .navbar-sidenav > .nav-item > .nav-link{
+        background-color: rgb(40, 0, 112) !important;
+    }
+    ul.navbar-sidenav{
+        box-shadow:none !important;
+    }
+    .container-fluid{
+        margin-left: 0px !important;
+        padding: 0.75rem !important;  
+    }
+    .content-wrapper{
+        margin-left: 0px !important;
+    }
+
+    .navbar-sidenav{
+        width: 0px;
+    }
+
+    .nav-item{
+        width: 0px !important;
+    }
+
+}
+
+.card-body{
+    padding: 0rem !important;
+    padding-top: 0.75rem !important;
+}
+
+.container-fluid{
+    margin-left: 12px;
+    padding-right:30px;
+}
+
+.content-wrapper{
+    margin-left: 200px;
+}
+
+.navbar-sidenav{
+    width: 200px;
+}
+
+.nav-item{
+    width: 200px !important;
+}
+
+.navbar-collapse .ml-auto .nav-item{
+    width: 90px !important;
+}

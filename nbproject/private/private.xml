@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/src/java/com/sbi/helper/Helper.java</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/src/java/com/sbi/dao/CommentDAO.java</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/src/java/com/sbi/controller/RemoveSuggestionController.java</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/web/dashboard.jsp</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/src/java/com/sbi/model/Comments.java</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/web/js/suggestionbox.js</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/src/java/com/sbi/controller/AddCommentController.java</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/src/java/com/sbi/controller/DashboardController.java</file>
+            <file>file:/E:/workspace/BankControllerSuggestion_1/src/java/com/sbi/service/CommentService.java</file>
+        </group>
+    </open-files>
+</project-private>
